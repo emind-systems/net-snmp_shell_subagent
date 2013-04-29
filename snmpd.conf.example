@@ -1,0 +1,4 @@
+
+rocommunity public
+# send all Emind Enterprise ID requests to the subagent
+pass .1.3.6.1.4.1.39731 /usr/local/emind/snmp-subagent/snmp_subagent.sh
